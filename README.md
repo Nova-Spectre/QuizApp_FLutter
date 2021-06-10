@@ -1,7 +1,10 @@
 # quiz_app
 ![](Screenshot\DCIM.mp4)
-![](Screenshot\Screenshot.jpg)
-![](Screenshot\Screenshot2.jpg)
+
+![](Screenshot\Screenshot.jpeg)
+
+![](Screenshot\Screenshot2.jpeg)
+
 
 
 # quiz_app

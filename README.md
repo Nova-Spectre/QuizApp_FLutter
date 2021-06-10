@@ -1,9 +1,24 @@
 # quiz_app
-![](Screenshot\DCIM.mp4)
 
-![](Screenshot\Screenshot.jpeg)
+A basic Quiz App which use to take inputs from users as an answer of question and displayed their respective score
 
-![](Screenshot\Screenshot2.jpeg)
+
+
+
+
+
+https://user-images.githubusercontent.com/51260891/121559870-9e6d3780-ca34-11eb-91dd-f2563f587eaf.mp4
+
+
+
+
+
+![Screenshot](https://user-images.githubusercontent.com/51260891/121559903-a4631880-ca34-11eb-97d4-c9dfdae197d7.jpeg)
+
+
+
+
+![Screenshot2](https://user-images.githubusercontent.com/51260891/121559915-a62cdc00-ca34-11eb-9dd2-f73193ea6274.jpeg)
 
 
 
